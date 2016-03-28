@@ -3,9 +3,9 @@ public class hello
   public int i ;
   public int j ;
   
-  public int add()
+  public int addplusone()
   {
-    return i + j ;
+    return i + j + 1;
   }
   
   public int multiply()
